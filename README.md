@@ -48,7 +48,7 @@ All restored seasonal content can be individually enabled or disabled through th
 
 ## Configuration File
 
-`BepInEx/config/SeasonalContentUnlocked.`cfg`
+`BepInEx/config/SeasonalContentUnlocked.cfg`
 
 The configuration file allows you to customize which seasonal content is restored by enabling or disabling individual categories.
 
