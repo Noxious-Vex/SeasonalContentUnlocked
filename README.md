@@ -7,8 +7,6 @@
 
 ## Overview
 
-## Overview
-
 Seasonal Content Unlocked is a lightweight client-side Valheim mod that makes existing seasonal content permanently available outside of its original event periods.
 
 This mod does not add, replace, or modify any game assets, mechanics, features, or functionality. Instead, it simply removes the seasonal restrictions applied to content that is already present within Valheim, allowing players to craft and use seasonal items whenever they choose.
