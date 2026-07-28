@@ -1,0 +1,23 @@
+# Build output
+bin/
+obj/
+Build/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Rider
+.idea/
+
+# Valheim / BepInEx
+BepInEx/
+*.cfg
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
