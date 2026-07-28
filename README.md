@@ -1,7 +1,6 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Game](https://img.shields.io/badge/game-Valheim-orange)
 ![Framework](https://img.shields.io/badge/framework-BepInEx-purple)
-![Dependency](https://img.shields.io/badge/dependency-J%C3%B6tunn-green)
 
 # Seasonal Content Unlocked
 
